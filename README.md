@@ -19,7 +19,7 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
-## :rocket: Sobre o desafio
+## :rocket: Sobre o projeto
 
 O GoBarber é uma plataforma de agendamento de serviços de beleza para barbearias e salões de beleza, desenvolvida em NodeJS, ReactJS e React Native, durante o Bootcamp GoStack da Rocketseat.
 
