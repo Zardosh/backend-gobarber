@@ -38,6 +38,28 @@ O GoBarber é uma plataforma de agendamento de serviços de beleza para barbeari
 
 ## Executando Localmente
 
+Para executar localmente, serão necessárias as seguintes ferramentas:
+- Docker
+- Yarn
+- Node
+
+1. Vá para o diretório one você quer que esse repositório fique;
+2. Clone o repositório:
+```
+git clone https://github.com/Zardosh/backend-gobarber
+```
+3. Vá para o diretório do repositório;
+4. Baixe as dependências:
+```
+yarn
+```
+5. Crie um banco de dados PostgreSQL usando o Docker;
+6. Edite as configurações de autenticação e banco de dados na pasta "src/config/" e renomeie os arquivos como indicado nos mesmos;
+7. Inicie o projeto:
+```
+yarn dev
+```
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
