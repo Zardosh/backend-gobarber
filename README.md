@@ -55,10 +55,15 @@ yarn
 ```
 5. Crie um banco de dados PostgreSQL usando o Docker;
 6. Edite as configurações de autenticação e banco de dados na pasta "src/config/" e renomeie os arquivos como indicado nos mesmos;
-7. Inicie o projeto:
+7. Execute as migrations:
+```
+yarn sequelize db:migrate
+```
+8. Inicie o projeto:
 ```
 yarn dev
 ```
+9. Pronto! Agora é só acessar as rotas no endereço "localhost:3333/[rota]".
 
 ## :memo: Licença
 
