@@ -21,20 +21,20 @@
 
 ## :rocket: Sobre o projeto
 
-O GoBarber é uma plataforma de agendamento de serviços de beleza para barbearias e salões de beleza, desenvolvida em NodeJS, ReactJS e React Native, durante o Bootcamp GoStack da Rocketseat.
+O **GoBarber** é uma plataforma de agendamento de serviços de beleza para barbearias e salões de beleza, desenvolvida em **NodeJS**, **ReactJS** e **React Native**, durante o Bootcamp GoStack da Rocketseat.
 
 ## Tecnologias
 
-- Express - Micro-framework que acelera o desenvolvimento em NodeJS;
-- Insomnia - Ferramenta utilizada para testar APIs;
-- PostgreSQL - Banco de dados SQL;
-- Docker - Criação de ambientes isolados (contêineres);
-- Sequelize - ORM que permite a abstração do banco de dados, possibilitando o uso do JavaScript para montá-lo e acessá-lo;
-- JWT - Biblioteca de tokens que auxilia na validação e autenticação de usuários;
-- Bcrypt - Criptografia de senhas;
-- Yup - Validação dos dados vindos das requisições;
-- Sucrase - Biblioteca que possibilita a utilização da sintaxe de import/export no JavaScript;
-- ESLint, Prettier e EditorConfig - Ferramentas que auxiliam na padronização do código. 
+- **Express** - Micro-framework que acelera o desenvolvimento em NodeJS;
+- **Insomnia** - Ferramenta utilizada para testar APIs;
+- **PostgreSQL** - Banco de dados SQL;
+- **Docker** - Criação de ambientes isolados (contêineres);
+- **Sequelize** - ORM que permite a abstração do banco de dados, possibilitando o uso do JavaScript para montá-lo e acessá-lo;
+- **JWT** - Biblioteca de tokens que auxilia na validação e autenticação de usuários;
+- **Bcrypt** - Criptografia de senhas;
+- **Yup** - Validação dos dados vindos das requisições;
+- **Sucrase** - Biblioteca que possibilita a utilização da sintaxe de import/export no JavaScript;
+- **ESLint, Prettier e EditorConfig** - Ferramentas que auxiliam na padronização do código. 
 
 ## Executando Localmente
 
